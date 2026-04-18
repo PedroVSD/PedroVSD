@@ -3,7 +3,9 @@
 PedroVSD/PedroVSD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Hello, i'm Computer Science student, with a focus on data. Like Machine Learning, Data Engineering and MLops.
+Hello, i'm Computer Science student, with a focus on data. Like Data Science, Machine Learning, Data Engineering and MLops.
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&random=true&width=435&lines=Data+Engineering;Data+Science)](https://git.io/typing-svg)
 
 ## Technologies
 - Python
