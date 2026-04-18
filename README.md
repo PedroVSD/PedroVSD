@@ -27,7 +27,8 @@ I'm a Computer Science student bridging the gap between Data Engineering and Beh
 - ETL (Extract, Transform, Load)  
 - Data modeling  
 - Machine learning algorithms and metrics
-/n
+
+
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Polars](https://img.shields.io/badge/Polars-%23CD792C?style=for-the-badge&logo=polars&logoColor=white)
@@ -37,7 +38,8 @@ I'm a Computer Science student bridging the gap between Data Engineering and Beh
 ### Cloud
 - Google Cloud Platform (currently learning)  
 - AWS (currently learning)
-/n
+
+
 ![GCP](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
