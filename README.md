@@ -5,7 +5,15 @@ You can click the Preview link to take a look at your changes.
 --->
 # Hello, I'm Pedro
 
-I'm a Computer Science student focused on data-related fields, including **Data Science**, **Machine Learning**, **Data Engineering**, and **MLOps**.
+I'm a Computer Science student bridging the gap between Data Engineering and Behavioral AI. Currently, I build scalable data solutions while researching how Moral Foundations Theory and personality models can enhance LLM interactions.
+
+# 🎯 Focus
+
+**Data Science**
+**Machine Learning**
+**Data Engineering**
+**MLOps**
+**Docker**
 
 ## Technologies
 
@@ -26,8 +34,7 @@ I'm a Computer Science student focused on data-related fields, including **Data 
 
 ### Tools
 - Git & GitHub  
-- Linux  
-- Git  
+- Linux   
 - Various libraries  
 
 ## Stats
@@ -43,7 +50,9 @@ I'm a Computer Science student focused on data-related fields, including **Data 
 - ETL Pipeline and Association Rules with Python  
 - Exploratory Data Analysis and Clustering (EDA)  
 - A simple movie recommendation system (KNN)  
-- Some projects with neural networks  
+- Some projects with neural networks
+- Cashback System API
+- Behavioral Personality Configurator YAML-based
 
 ## Currently learning
 
