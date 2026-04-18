@@ -18,13 +18,13 @@ I'm a Computer Science student bridging the gap between Data Engineering and Beh
 ## Technologies
 
 ### Languages
-- Python  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
 - SQL  
 - C++  
 
 ### Data & Engineering
 - ETL (Extract, Transform, Load)  
-- Pandas  
+- Pandas, numpy, tensorflow, pytorch, polar
 - Data modeling  
 - Machine learning algorithms and metrics  
 
