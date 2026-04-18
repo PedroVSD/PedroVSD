@@ -30,8 +30,6 @@ I'm a Computer Science student focused on data-related fields, including **Data 
 - Git  
 - Various libraries  
 
----
-
 ## Stats
 
 ![PedroVSD's Stats](https://github-readme-stats.vercel.app/api?username=PedroVSD&theme=algolia&show_icons=true&hide_border=false&count_private=false)
@@ -40,16 +38,12 @@ I'm a Computer Science student focused on data-related fields, including **Data 
 
 ![PedroVSD's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroVSD&theme=algolia&show_icons=true&hide_border=false&layout=compact)
 
----
-
 ## Projects I enjoyed building
 
 - ETL Pipeline and Association Rules with Python  
 - Exploratory Data Analysis and Clustering (EDA)  
 - A simple movie recommendation system (KNN)  
 - Some projects with neural networks  
-
----
 
 ## Currently learning
 
