@@ -9,11 +9,10 @@ I'm a Computer Science student bridging the gap between Data Engineering and Beh
 
 # 🎯 Focus
 
-**Data Science**
-**Machine Learning**
-**Data Engineering**
-**MLOps**
-**Docker**
+* **Data Science**
+* **Machine Learning**
+* **Data Engineering**
+* **MLOps**
 
 ## Technologies
 
