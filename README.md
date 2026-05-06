@@ -64,7 +64,7 @@ I'm a Computer Science student bridging the gap between Data Engineering and Beh
 - A simple movie recommendation system (KNN)  
 - Some projects with neural networks
 - Cashback System API
-- Behavioral Personality Configurator YAML-based
+- A Python library that allows for the evaluation of psychological personalities and economic contexts using LLMs for simulation.
 
 ## Currently learning
 
