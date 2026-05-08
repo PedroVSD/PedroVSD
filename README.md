@@ -73,3 +73,4 @@ I'm a Computer Science student bridging the gap between Data Engineering and Beh
 - Natural Language Processing (NLP)  
 - Neural Networks  
 - FastAPI  
+When i got time, i try golang :)
