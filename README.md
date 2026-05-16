@@ -2,8 +2,7 @@
 <!---
 PedroVSD/PedroVSD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
-![PedroVSD's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroVSD&theme=algolia&show_icons=true&hide_border=false&layout=compact)
-![PedroVSD's Stats](https://github-readme-stats.vercel.app/api?username=PedroVSD&theme=algolia&show_icons=true&hide_border=false&count_private=false)
+
 --->
 # Hello, I'm Pedro
 
@@ -54,7 +53,8 @@ I'm a Computer Science student bridging the gap between Data Engineering and Beh
 ## Stats
 
 ![PedroVSD's Streak](https://github-readme-streak-stats.herokuapp.com/?user=PedroVSD&theme=algolia&hide_border=false)
-
+![PedroVSD's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroVSD&theme=algolia&show_icons=true&hide_border=false&layout=compact)
+![PedroVSD's Stats](https://github-readme-stats.vercel.app/api?username=PedroVSD&theme=algolia&show_icons=true&hide_border=false&count_private=false)
 
 
 ## Projects I enjoyed building
