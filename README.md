@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 --->
 # Hello, I'm Pedro
 
-I'm a Computer Science student bridging the gap between Data Engineering and Behavioral AI. Currently, I build scalable data solutions while researching how Moral Foundations Theory and personality models can enhance LLM interactions.
+I am a Computer Science student with an interest in Data Science, Data Engineering, and MLOps. Currently, I am studying neural networks, recommendation systems, natural language processing, and delving deeper into MLOps topics. I am also developing research on the influence of personalities in LLMs within the context of negotiation and economic simulation contexts.
 
 # 🎯 Focus
 
@@ -70,4 +70,4 @@ I'm a Computer Science student bridging the gap between Data Engineering and Beh
 - Natural Language Processing (NLP)  
 - Neural Networks  
 - FastAPI  
-- When i got time, i try golang :)
+- When I have time, I study Golang. :)
