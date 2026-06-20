@@ -60,7 +60,6 @@ I am a Computer Science student with an interest in Data Science, Data Engineeri
 - Exploratory Data Analysis and Clustering (EDA)  
 - A simple movie recommendation system (KNN)  
 - Some projects with neural networks
-- Cashback System API
 - A Python library that allows for the evaluation of psychological personalities and economic contexts using LLMs for simulation.
 
 ## Currently learning
