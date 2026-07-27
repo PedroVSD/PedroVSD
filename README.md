@@ -6,6 +6,8 @@ You can click the Preview link to take a look at your changes.
 ![PedroVSD's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroVSD&theme=algolia&show_icons=true&hide_border=false&layout=compact)
 ![PedroVSD's Stats](https://github-readme-stats.vercel.app/api?username=PedroVSD&theme=algolia&show_icons=true&hide_border=false&count_private=false)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 --->
 # Hello, I'm Pedro
 
@@ -25,7 +27,7 @@ I am a Computer Science student with an interest in Data Science, Data Engineeri
 ![GO](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+
 
 ### Data & Engineering
 - ETL (Extract, Transform, Load)  
@@ -60,7 +62,7 @@ I am a Computer Science student with an interest in Data Science, Data Engineeri
 
 ### Frameworks
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571.svg?style=for-the-badge&logo=fastapi)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+
 
 ## Projects I enjoyed building
 
