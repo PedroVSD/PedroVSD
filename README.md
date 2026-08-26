@@ -12,18 +12,19 @@ You can click the Preview link to take a look at your changes.
 ![LangGraph](https://img.shields.io/badge/langgraph-%231C3C3C.svg?style=for-the-badge&logo=langgraph&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/apachespark-%23E25A1C.svg?style=for-the-badge&logo=apachespark&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+* **Data Engineering**
+* **Machine Learning**
 --->
 # Hello, I'm Pedro
 
-I am a Computer Science student with an interest in Data Science, Data Engineering, and MLOps. Currently, I am studying neural networks, recommendation systems, natural language processing, and delving deeper into MLOps topics. I am also developing research on the influence of personalities in LLMs within the context of negotiation and economic simulation contexts.
+I am a Computer Science student with an interest in Data Science and Software Engineering, aiming at MLOps. I have carried out projects involving predictive models, neural networks, and APIs development. I am also developing research on the influence of personalities in LLMs within the context of negotiation and economic simulation contexts.
 
 # 🎯 Focus
 
 * **Data Science**
-* **Machine Learning**
-* **Data Engineering**
-* **MLOps**
 * **Software Engineering**
+* **MLOps**
 
 ## Technologies
 
@@ -60,7 +61,6 @@ I am a Computer Science student with an interest in Data Science, Data Engineeri
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![uv](https://img.shields.io/badge/uv-%23DE5FE9.svg?style=for-the-badge&logo=uv&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
 ![Databricks](https://img.shields.io/badge/Databricks-181825?style=for-the-badge&logo=databricks)
 
@@ -71,8 +71,7 @@ I am a Computer Science student with an interest in Data Science, Data Engineeri
 
 ## Projects I enjoyed building
 
-- ETL Pipeline and Association Rules with Python  
-- Exploratory Data Analysis and Clustering (EDA)  
-- A simple movie recommendation system (KNN)  
-- Some projects with neural networks
+- F1 API  
+- Student hub  
+- Some projects with neural networks and predictive models
 - A Python library that allows for the evaluation of psychological personalities and economic contexts using LLMs for simulation.
