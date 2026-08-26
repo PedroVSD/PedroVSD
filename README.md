@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 I am a Computer Science student with an interest in Data Science and Software Engineering, aiming at MLOps. I have carried out projects involving predictive models, neural networks, and APIs development. I am also developing research on the influence of personalities in LLMs within the context of negotiation and economic simulation contexts.
 
-# 🎯 Focus
+# Focus
 
 * **Data Science**
 * **Software Engineering**
