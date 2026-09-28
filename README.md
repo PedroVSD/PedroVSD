@@ -73,7 +73,6 @@ I am a Computer Science student with an interest in Data Science and Software En
 
 ## Projects I enjoyed building
 
-- F1 API  
-- Student hub  
+- F1 API    
 - Some projects with neural networks and predictive models
 - A Python library that allows for the evaluation of psychological personalities and economic contexts using LLMs for simulation.
