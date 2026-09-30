@@ -18,14 +18,7 @@ You can click the Preview link to take a look at your changes.
 --->
 # Hello, I'm Pedro
 
-I am a Computer Science student hoo do some codes in python and golang, and i try some other languages. By the way i like math e data :)
-
-* **Data Science**
-* **Data Engineering**
-* **Software Engineering**
-* **Machine Learning Engineering**
-
-## Technologies
+I am a Computer Science student hoo do some codes in python and golang, and i try some other languages sometimes. By the way, i like math, algebra, statistics, data and software engineering :)
 
 ### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
