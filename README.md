@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 --->
 # Hello, I'm Pedro
 
-I am a Computer Science student with an interest in Data Science and Software Engineering, aiming at Machine Learning Engineering. I have carried out projects involving predictive models, neural networks, and APIs development. I am also developing research on the influence of personalities in LLMs within the context of negotiation and economic simulation contexts.
+I am a Computer Science student hoo do some codes in python and golang, and i try some other languages. By the way i like math e data :)
 
 # Focus
 
