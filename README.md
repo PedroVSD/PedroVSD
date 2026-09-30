@@ -20,8 +20,6 @@ You can click the Preview link to take a look at your changes.
 
 I am a Computer Science student hoo do some codes in python and golang, and i try some other languages. By the way i like math e data :)
 
-# Focus
-
 * **Data Science**
 * **Data Engineering**
 * **Software Engineering**
