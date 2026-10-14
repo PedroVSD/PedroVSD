@@ -41,7 +41,7 @@ I am a Computer Science student hoo do some codes in python and golang, and i tr
 - Google Cloud Platform (currently learning)  
 - AWS (currently learning)
 
-![Azure_DevOps]([{BadgeURLHere}](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white))
+![Azure_DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![GCP](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
